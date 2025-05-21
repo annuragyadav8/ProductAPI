@@ -1,0 +1,17 @@
+C:\projects\ProductAPI\ServicesLayer\bin\Debug\net8.0\ServicesLayer.deps.json
+C:\projects\ProductAPI\ServicesLayer\bin\Debug\net8.0\ServicesLayer.dll
+C:\projects\ProductAPI\ServicesLayer\bin\Debug\net8.0\ServicesLayer.pdb
+C:\projects\ProductAPI\ServicesLayer\bin\Debug\net8.0\DtosLayer.dll
+C:\projects\ProductAPI\ServicesLayer\bin\Debug\net8.0\RepositoryLayer.dll
+C:\projects\ProductAPI\ServicesLayer\bin\Debug\net8.0\DtosLayer.pdb
+C:\projects\ProductAPI\ServicesLayer\bin\Debug\net8.0\RepositoryLayer.pdb
+C:\projects\ProductAPI\ServicesLayer\obj\Debug\net8.0\ServicesLayer.csproj.AssemblyReference.cache
+C:\projects\ProductAPI\ServicesLayer\obj\Debug\net8.0\ServicesLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\ProductAPI\ServicesLayer\obj\Debug\net8.0\ServicesLayer.AssemblyInfoInputs.cache
+C:\projects\ProductAPI\ServicesLayer\obj\Debug\net8.0\ServicesLayer.AssemblyInfo.cs
+C:\projects\ProductAPI\ServicesLayer\obj\Debug\net8.0\ServicesLayer.csproj.CoreCompileInputs.cache
+C:\projects\ProductAPI\ServicesLayer\obj\Debug\net8.0\Services.2D1E3DF1.Up2Date
+C:\projects\ProductAPI\ServicesLayer\obj\Debug\net8.0\ServicesLayer.dll
+C:\projects\ProductAPI\ServicesLayer\obj\Debug\net8.0\refint\ServicesLayer.dll
+C:\projects\ProductAPI\ServicesLayer\obj\Debug\net8.0\ServicesLayer.pdb
+C:\projects\ProductAPI\ServicesLayer\obj\Debug\net8.0\ref\ServicesLayer.dll

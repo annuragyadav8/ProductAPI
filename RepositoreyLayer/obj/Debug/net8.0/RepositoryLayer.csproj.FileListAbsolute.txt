@@ -1,0 +1,15 @@
+C:\projects\ProductAPI\RepositoreyLayer\bin\Debug\net8.0\RepositoryLayer.deps.json
+C:\projects\ProductAPI\RepositoreyLayer\bin\Debug\net8.0\RepositoryLayer.dll
+C:\projects\ProductAPI\RepositoreyLayer\bin\Debug\net8.0\RepositoryLayer.pdb
+C:\projects\ProductAPI\RepositoreyLayer\bin\Debug\net8.0\DtosLayer.dll
+C:\projects\ProductAPI\RepositoreyLayer\bin\Debug\net8.0\DtosLayer.pdb
+C:\projects\ProductAPI\RepositoreyLayer\obj\Debug\net8.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\projects\ProductAPI\RepositoreyLayer\obj\Debug\net8.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\ProductAPI\RepositoreyLayer\obj\Debug\net8.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\projects\ProductAPI\RepositoreyLayer\obj\Debug\net8.0\RepositoryLayer.AssemblyInfo.cs
+C:\projects\ProductAPI\RepositoreyLayer\obj\Debug\net8.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\projects\ProductAPI\RepositoreyLayer\obj\Debug\net8.0\Reposito.A0A61804.Up2Date
+C:\projects\ProductAPI\RepositoreyLayer\obj\Debug\net8.0\RepositoryLayer.dll
+C:\projects\ProductAPI\RepositoreyLayer\obj\Debug\net8.0\refint\RepositoryLayer.dll
+C:\projects\ProductAPI\RepositoreyLayer\obj\Debug\net8.0\RepositoryLayer.pdb
+C:\projects\ProductAPI\RepositoreyLayer\obj\Debug\net8.0\ref\RepositoryLayer.dll

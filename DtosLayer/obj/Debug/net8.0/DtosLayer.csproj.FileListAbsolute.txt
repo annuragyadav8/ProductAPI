@@ -1,0 +1,11 @@
+C:\projects\ProductAPI\DtosLayer\bin\Debug\net8.0\DtosLayer.deps.json
+C:\projects\ProductAPI\DtosLayer\bin\Debug\net8.0\DtosLayer.dll
+C:\projects\ProductAPI\DtosLayer\bin\Debug\net8.0\DtosLayer.pdb
+C:\projects\ProductAPI\DtosLayer\obj\Debug\net8.0\DtosLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\ProductAPI\DtosLayer\obj\Debug\net8.0\DtosLayer.AssemblyInfoInputs.cache
+C:\projects\ProductAPI\DtosLayer\obj\Debug\net8.0\DtosLayer.AssemblyInfo.cs
+C:\projects\ProductAPI\DtosLayer\obj\Debug\net8.0\DtosLayer.csproj.CoreCompileInputs.cache
+C:\projects\ProductAPI\DtosLayer\obj\Debug\net8.0\DtosLayer.dll
+C:\projects\ProductAPI\DtosLayer\obj\Debug\net8.0\refint\DtosLayer.dll
+C:\projects\ProductAPI\DtosLayer\obj\Debug\net8.0\DtosLayer.pdb
+C:\projects\ProductAPI\DtosLayer\obj\Debug\net8.0\ref\DtosLayer.dll
